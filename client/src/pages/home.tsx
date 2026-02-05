@@ -36,7 +36,7 @@ export default function Home() {
             
             <div>
               <h4 className="font-display text-2xl mb-2">Contacto</h4>
-              <a href="mailto:ola@readyset.pt" className="font-body text-lg hover:underline decoration-2">ola@readyset.pt</a>
+              <a href="mailto:admin@ready-set.art" className="font-body text-lg hover:underline decoration-2">admin@ready-set.art</a>
             </div>
 
             <div className="flex gap-4 justify-end">
